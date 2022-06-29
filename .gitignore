@@ -1,7 +1,4 @@
 /node_modules/
 package-lock.json
-package.json
-README.md
 webpack.config.js
-.browserslistrc
-/src
+/dist
